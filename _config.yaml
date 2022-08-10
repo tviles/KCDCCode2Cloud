@@ -1,0 +1,8 @@
+title: GitHub Bootcamp
+description: >-
+  This is is a sample Jekyll website that is hosted in GitHub Pages.
+  It is used in the `GitHub Bootcamp` workshop from @wulfland
+twitter_username: mike_kaufmann
+github_username: wulfland
+theme: minima
+markdown: kramdown
